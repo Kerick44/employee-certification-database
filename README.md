@@ -25,9 +25,9 @@ The database consists of three related tables:
 The database uses primary keys, foreign keys, and a composite primary key to maintain relationships between records
 
 # SQL Queries and Functionality
-1. Employee Certification Tracking - Retrieves employee information, certification names, completion dates, expiration dates, and assigned supervisors using multiple SQL JOIN operations
-2. Expired Certification Identification - Identifies expired employee certifications by comparing expiration dates with CURRENT_DATE
-3. Employee-Supervisor Relationships - Uses a self-join on the employees table to identify employees and their assigned supervisors
+- Employee Certification Tracking - Retrieves employee information, certification names, completion dates, expiration dates, and assigned supervisors using multiple SQL JOIN operations
+- Expired Certification Identification - Identifies expired employee certifications by comparing expiration dates with CURRENT_DATE
+- Employee-Supervisor Relationships - Uses a self-join on the employees table to identify employees and their assigned supervisors
 
 # Database Administration and Configuration
 - Installed and configured MySQL on Ubuntu Linux
