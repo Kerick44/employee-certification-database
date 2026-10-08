@@ -39,10 +39,10 @@ The database uses primary keys, foreign keys, and a composite primary key to mai
 - Created a MySQL database backup using export functionality
 
 # Repository Structure
-Backups/ -- MySQL database backup
-Data/-- Original CSV datasets
-SQL/-- SQL queries and database scripts
-README.md -- Project Documentation
+- Backups/ -- MySQL database backup
+- Data/-- Original CSV datasets
+- SQL/-- SQL queries and database scripts
+- README.md -- Project Documentation
 
 # Skills Demonstrated
 - Relational Database Design
