@@ -1,0 +1,21 @@
+employeeID,firstName,lastName,supervisorID
+1,Michael,Smith,
+2,Mary,Johnson,1
+3,John,Williams,1
+4,Robert,Brown,1
+5,Jennifer,Jones,2
+6,David,Garcia,2
+7,Linda,Miller,2
+8,Patricia,Davis,3
+9,James,Rodriguez,3
+10,Maria,Martinez,3
+11,James,Whitaker,4
+12,Ethan ,Marsh,4
+13,Amelia,Crawford,4
+14,Lucas ,Pereira,5
+15,Olivia,Bennett,5
+16,Mason,Okafor,5
+17,Logan,Fitzgerald,6
+18,Sophia,Delgado,6
+19,Keenan,Thompson,6
+20,Elizabeth,Johnson,6
