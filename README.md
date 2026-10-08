@@ -1,4 +1,4 @@
-#Employee Certification Management Database
+# Employee Certification Management Database
 A relational MySQl database project designed to manage employee records, track professional certifications, monitor expiration dates, and identify employee-supervisor relationships.
 
 #Project Overview
