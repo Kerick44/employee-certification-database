@@ -9,12 +9,12 @@ This database was developed to provide a structured alternative to tracking empl
 This project also involved configuring a MySQL server on Ubuntu Linux, establishing database connections, and performing database operations through MySQL Workbench and the Linux command line.
 
 # Technologies Used
-Database: MySQL
-Database Management: MySQL Workbench
-Operating Systems: Ubuntu Linux, Windows
-Languages: SQL, Bash
-Data Preparation; Microsoft Excel, CSV
-Version Control: Github
+- Database: MySQL
+- Database Management: MySQL Workbench
+- Operating Systems: Ubuntu Linux, Windows
+- Languages: SQL, Bash
+- Data Preparation; Microsoft Excel, CSV
+- Version Control: Github
 
 # Database Structure
 The database consists of three related tables:
